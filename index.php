@@ -55,7 +55,7 @@
             <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
               <div class="u-inner-container-layout u-sidenav-overflow">
                 <div class="u-menu-close"></div>
-                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-3"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Новости.html">Новости</a>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-3"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Новости.php">Новости</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Команда.html">Команда</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Статистика.html">Статистика</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Состав.html">Состав</a>
 </li></ul>
